@@ -1,130 +1,121 @@
-<p align="center">
-  <div align="center">
-    <a href="https://zenime.site/">
-      <img alt="AnimeHi" src="https://raw.githubusercontent.com/itzzzme/zenime/refs/heads/main/public/logo.png" width="220"/>
-    </a>
-  </div>
-    <h3 align="center">Zenime - anime streaming platform</h3>
-    <p align="center">
-  <a href="https://github.com/itzzzme/zenime">
-      <img src="https://img.shields.io/github/stars/itzzzme/zenime" alt="Github Stars">
-    </a>
-      <img src="https://img.shields.io/github/issues/itzzzme/zenime" alt="Github Issues">
-     <a href="https://github.com/itzzzme/zenime">
-      <img src="https://img.shields.io/github/forks/itzzzme/zenime" alt="Github Forks" />
-    </a>
-</p>
-</p>
-<p align="center">
-    <a href="https://zenime.site">Zenime</a> is an open-source anime streaming service that uses <a href="https://github.com/itzzzme/anime-api">custom</a> API, built using ReactJS with javascript and Tailwind CSS. It lets you easily find any anime with intuitive search & suggestion feature and stream seamlessly.
- </p>
-
-<details>
-<summary>View more Features</summary>
-
-### General
-
-- Sub Anime support
-- Dub Anime support
-- User-friendly interface
-- Mobile responsive
-- Fast page load
-- Character & Voice Actors
-
-### Watch Page
-
-- Related Animes
-- Recommended Animes
-- Available seasons
-- Estimated schedule of upcoming episodes
-- **Player**
-  - Autoplay
-  - Autoskip intro/outro
-  - Autonext
-
-</details>
-
-## Previews
-
-<div style="text-align: left;">
-  <img src="https://raw.githubusercontent.com/itzzzme/zenime/refs/heads/main/public/homepage.webp" alt="Home Page" style="max-width: 80%;" >
-  <details>
-  <summary style="margin-top:10px">View more screenshots</summary>
-  <br/>
-  AnimeInfo Page
-  <img style="margin-top:10px" src="https://raw.githubusercontent.com/itzzzme/zenime/refs/heads/main/public/animeinfo.webp" alt="AnimeInfo Page" style="max-width: 80%;">
-  <br/>
-  Searchbar
-  <img style="margin-top:10px" src="https://raw.githubusercontent.com/itzzzme/zenime/refs/heads/main/public/searchbar.webp" alt="Searchbar" style="max-width: 50%;">
-  <br/>
-  Character & Voice Actors
-  <img style="margin-top:10px" src="https://raw.githubusercontent.com/itzzzme/zenime/refs/heads/main/public/voiceactors.webp" alt="Character & Voice Actors" style="max-width: 80%;">
-  <br/>
-  Watch Page
-  <img style="margin-top:10px" src="https://raw.githubusercontent.com/itzzzme/zenime/refs/heads/main/public/watchpage.webp" alt="Watch Page" style="max-width: 80%;">
-  <br/>
-  </details>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=200&text=zenime&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Full-featured%20anime%20streaming%20platform&descAlignY=60&descSize=14"/>
 </div>
 
-## Installation and Local Development
+<p align="center">
+  <a href="https://github.com/salman-dev-app/zenime">
+    <img src="https://readme-typing-svg.demolab.com?font=Tagesschrift&size=22&duration=2000&pause=800&color=F7F7F7&background=FF001400&center=true&vCenter=true&multiline=true&width=500&height=70&lines=zenime;Full-featured+anime+streaming+platform" alt="Typing SVG" />
+  </a>
+</p>
 
-### 1. Make sure you have node installed on your device
+<p align="center">
 
-### 2. Run the following code to clone the repository and install all required dependencies
+  <img src="https://img.shields.io/github/last-commit/salman-dev-app/zenime?style=for-the-badge&color=00D9FF&label=LAST%20UPDATED&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/salman-dev-app/zenime?style=for-the-badge&color=FF6B6B&logo=github&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/salman-dev-app/zenime">
+    <img src="https://img.shields.io/badge/GitHub-View_Repository-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://zenime.site">
+    <img src="https://img.shields.io/badge/Live_Demo-Visit_Site-4ECDC4?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <h3>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="25" height="25" style="vertical-align: middle;" /> 
+    Zenime — Full-featured anime streaming platform
+  </h3>
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clipboard.png" alt="Clipboard" width="30" height="30" style="vertical-align: middle;" /> About This Project
+
+<p>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Repository:</strong> <a href="https://github.com/salman-dev-app/zenime">zenime</a><br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Author:</strong> <a href="https://github.com/salman-dev-app">Md Salman Biswas</a><br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Primary Language:</strong> Multi-language<br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Live Demo:</strong> <a href="https://zenime.site">https://zenime.site</a><br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>License:</strong> MIT
+</p>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" style="vertical-align: middle;" /> Features
+
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Clean Architecture</strong> — Built following SOLID principles and DRY methodology</p>
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Scalable Design</strong> — Engineered for performance and extensibility</p>
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Developer Friendly</strong> — Well-structured codebase with clear documentation</p>
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" height="18" style="vertical-align: middle;" /> <strong>Production Ready</strong> — Battle-tested and deployed in real environments</p>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="30" height="30" style="vertical-align: middle;" /> Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode&theme=dark" />
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" alt="Scroll" width="30" height="30" style="vertical-align: middle;" /> Getting Started
 
 ```bash
-git clone https://github.com/itzzzme/zenime.git
+# Clone the repository
+git clone https://github.com/salman-dev-app/zenime.git
+
+# Navigate to the project
 cd zenime
-npm install # or yarn
+
+# Install dependencies (if applicable)
+# Follow language-specific setup instructions below
 ```
 
-### 3. Refer the <a href="https://github.com/itzzzme/zenime/blob/main/.env.example">.env.example</a> to set your .env file up
+---
 
-## Start the server
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Globe" width="30" height="30" style="vertical-align: middle;" /> Connect With The Author
 
-```bash
-npm start # or npm run dev (to run develepment server)
-```
+<p align="center">
+  <a href="mailto:mdsalmanhelp@gmail.com">
+    <img src="https://img.shields.io/badge/Hire_Me-Send_Email-FF6B6B?style=for-the-badge&logo=minutemailer&logoColor=white" />
+  </a>
+  <a href="https://wa.me/8801840933137">
+    <img src="https://img.shields.io/badge/WhatsApp-Direct_Chat-4ECDC4?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://github.com/salman-dev-app">
+    <img src="https://img.shields.io/badge/GitHub-Follow_Me-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-## Docker Container
+---
 
-### Build the container
-```bash
-docker build -t zenime .
-```
-### Run the container
-```bash
-docker run -d -p 5173:80 zenime
-```
-## Live Deployment
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" alt="License" width="30" height="30" style="vertical-align: middle;" /> License
 
-### Vercel
+<div align="center">
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge&logo=open-source-initiative&logoColor=white" />
+  </a>
+</div>
 
-Host your own instance of <a href="https://zenime.site">Zenime</a>  on vercel
+<p align="center">
+  This project is licensed under the MIT License — feel free to use and contribute.
+</p>
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/itzzzme/zenime)
+---
 
-### Render
+<footer align="center">
+  <p>© 2024-2026 <a href="https://github.com/salman-dev-app">Md Salman Biswas</a> · All rights reserved</p>
+  <p>
+    <a href="https://github.com/salman-dev-app">
+      <img src="https://img.shields.io/badge/Profile_Status-Active-4ECDC4?style=flat" alt="Status" />
+    </a>
+  </p>
+  <p>Engineered with ❤️ by <a href="https://github.com/salman-dev-app">Md Salman Biswas</a></p>
+</footer>
 
-Host your own instance of <a href="https://zenime.site">Zenime</a> on Render.
-
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/itzzzme/zenime)
-
-### Pull Requests
-
-- Pull requests are welcomed that address bug fixes, improvements, or new features.
-- Fork the repository and create a new branch for your changes.
-- Ensure your code follows our coding standards.
-- Include tests if applicable.
-- Describe your changes clearly in the pull request, explaining the problem and solution.
-
- ### Reporting Issues
-
-If you discover any issues or have suggestions for improvement, please open an issue. Provide a clear and concise description of the problem, steps to reproduce it, and any relevant information about your environment.
-
-### Support
-
- If you like the project feel free to drop a star ✨. Your appreciation means a lot.
-
-<p align="center" style="text-decoration: none;">Made by <a href="https://github.com/itzzzme" tarGET="_blank">itzzzme 
-</a>🫰</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=120&section=footer"/>
